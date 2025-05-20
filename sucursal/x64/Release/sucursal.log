@@ -1,0 +1,14 @@
+﻿  Sucursal.cpp
+C:\Users\alexh\Desktop\tarea en clase\sln_sucursal\sucursal\Sucursal.h(43,24): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Sucursal.cpp")
+  
+  main.cpp
+C:\Users\alexh\Desktop\tarea en clase\sln_sucursal\sucursal\Sucursal.h(43,24): warning C4244: 'inicializando': conversión de 'uint64_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+  Generando código
+  1 of 161 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  sucursal.vcxproj -> C:\Users\alexh\Desktop\tarea en clase\sln_sucursal\x64\Release\sucursal.exe

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|solutionrelative:sucursal\\Sucursal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|solutionrelative:sucursal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|solutionrelative:sucursal\\Sucursal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E211D290-4A80-4458-9C36-A2816D5E0314}|sucursal\\sucursal.vcxproj|solutionrelative:sucursal\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 190,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionBD.h",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\ConexionBD.h",
+              "RelativeDocumentMoniker": "sucursal\\ConexionBD.h",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\ConexionBD.h",
+              "RelativeToolTip": "sucursal\\ConexionBD.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T04:25:46.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\main.cpp",
+              "RelativeDocumentMoniker": "sucursal\\main.cpp",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\main.cpp",
+              "RelativeToolTip": "sucursal\\main.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T04:01:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sucursal.cpp",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.cpp",
+              "RelativeDocumentMoniker": "sucursal\\Sucursal.cpp",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.cpp",
+              "RelativeToolTip": "sucursal\\Sucursal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T06:19:46.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sucursal.h",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.h",
+              "RelativeDocumentMoniker": "sucursal\\Sucursal.h",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\tarea en clase\\sln_sucursal\\sucursal\\Sucursal.h",
+              "RelativeToolTip": "sucursal\\Sucursal.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCMAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T05:10:25.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
